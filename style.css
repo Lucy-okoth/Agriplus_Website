@@ -162,7 +162,7 @@ p{
 .description{
   display: flex;
   flex-direction: column;
-  with: 50%;
+  width: 50%;
   padding: 0px 50px;
 }
 
