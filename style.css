@@ -92,6 +92,7 @@ nav ul li a{
   background-color: rgb(241, 83, 21);
   padding: 15px;
   border: none;
+  border-radius: 0%;
 }
 
 /* home styles */
@@ -102,10 +103,11 @@ nav ul li a{
   color: #111;
   justify-content: center;
   align-items: flex-start;
-  width: 100%;
+  width: 90%;
+
 }
 
-.home-text{
+home-text{
   background-image: url(/project2_folder/img\ 1.png);
   background-position: 50% 50%;
   position: relative;
@@ -117,7 +119,7 @@ nav ul li a{
 }
 h3{
   font-size: 2.5rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 p{
@@ -178,6 +180,8 @@ p{
   max-width: 100%;
   display: flex;
 }
+
+
 
 /* categories */
 .categories{
