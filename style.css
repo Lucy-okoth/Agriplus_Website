@@ -92,6 +92,7 @@ nav ul li a{
   background-color: rgb(241, 83, 21);
   padding: 15px;
   border: none;
+  border-radius: 0%;
 }
 
 /* home styles */
