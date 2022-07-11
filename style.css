@@ -105,7 +105,7 @@ nav ul li a{
   width: 100%;
 }
 
-.home-text{
+home-text{
   background-image: url(/project2_folder/img\ 1.png);
   background-position: 50% 50%;
   position: relative;
@@ -178,6 +178,8 @@ p{
   max-width: 100%;
   display: flex;
 }
+
+
 
 /* categories */
 .categories{
